@@ -31,12 +31,12 @@ public class MatchServiceImpl implements MatchService {
     @Override
     public Match saveMATCH(Date date, Date hour, String team1, String team2, Stadiums stadium, String referee) throws TeamNotFoundException, RefereeNotFoundException, StadiumNotFoundException, DateHasPassedException {
       Match match = new Match();
-      Date currentDate = new Date();
+     /* Date currentDate = new Date();
         if (date.before(currentDate)) {
            throw new DateHasPassedException("date passed specify a future date");
         } else {
             match.setMatchDate(date);
-        }
+        }*/
         match.setMatchDate(date);
         match.setMatchHour(hour);
       Team firstTeam = teamRepository.findByName(team1);
