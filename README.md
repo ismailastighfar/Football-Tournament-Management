@@ -1,6 +1,7 @@
 <h1 align="center">Football Tournament Management
-<img src="https://github.com/ismailastighfar/Football-Tournament-Management/blob/master/Captures/tournament.png" />
+  <img src="https://github.com/ismailastighfar/Football-Tournament-Management/blob/master/Captures/tournament.png" style ="width:10%" />
 </h1>
+
 <br>
 <h2>Tools</h2>
 <div>
