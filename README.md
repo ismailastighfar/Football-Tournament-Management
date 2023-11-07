@@ -9,9 +9,11 @@
 </div>
 <br>
 <h2>Conception</h2>
-
+<img src="https://github.com/ismailastighfar/Football-Tournament-Management/blob/master/Captures/class_diagram.jpg" />
 <br>
 <h2>Application Demo with Postman</h2>
 <a href=""/>
 <img src="https://img.shields.io/badge/youtube-red?logo=youtube"/>
 </a>
+<br>
+<h2>Rest API Endpoints OpenAPI Docs</h2>
